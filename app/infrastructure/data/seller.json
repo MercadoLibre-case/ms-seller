@@ -2,7 +2,7 @@
   {
     "id": "seller123",
     "name": "Tech World",
-    "cover_image": "https://example.com/sellers/techworld-cover.jpg",
+    "cover_image": "https://www.techworld-it.com/images/About2024717132122.jpg",
     "reputation": 4.8,
     "products": [
       {
@@ -15,26 +15,26 @@
   {
     "id": "seller456",
     "name": "Galaxy Store",
-    "cover_image": "https://example.com/sellers/galaxystore-cover.jpg",
+    "cover_image": "https://images.samsung.com/is/image/samsung/assets/br/mobile/25_01/Galaxy_S25_Ultra_Main-KV_1440x640_normalKV_pc.jpg?imwidth=1366",
     "reputation": 4.5,
     "products": [
       {
         "id": "2",
         "title": "Samsung Galaxy S24",
-        "image": "https://cdn.awsli.com.br/600x700/1861/1861669/produto/248526003/apple-iphone-15-pro-max--256-gb--tit-nio-azul--2--rqs5ylol0t.jpg"
+        "image": "https://www.fujioka.com.br/arquivos/ids/273393-1000-1000/a_279248_alta_1.png?v=638827655755770000"
       }
     ]
   },
   {
     "id": "seller789",
     "name": "Roupas BR",
-    "cover_image": "https://example.com/sellers/roupasbr-cover.jpg",
+    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ43kmvO4wgZqyeK6fkExbCMYvsM97Z0Y4JDg&s",
     "reputation": 4.3,
     "products": [
       {
         "id": "3",
         "title": "Camiseta Básica Preta",
-        "image": "https://exemplo.com/camisa1.jpg"
+        "image": "https://59121.cdn.simplo7.net/static/59121/sku/feminino-camiseta-feminina-camiseta-feminina-slim-preta-ca24014-p-1719666198677.jpg"
       }
     ]
   }
