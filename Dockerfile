@@ -12,7 +12,7 @@ RUN pip install --upgrade pip \
     && pip install --no-cache-dir -r requirements.txt
 
 # Expõe a porta padrão usada pelo FastAPI/Uvicorn
-EXPOSE 8090
+EXPOSE 8080
 
 # Comando para iniciar o microserviço
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8090"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8080"]
